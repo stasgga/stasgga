@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @stasgga
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Stas
+- 👀 I’m interested in software engineering, web development, frontend engineering
+- 🌱 I’m currently learning and working various javascript frameworks and web3
+- 💞️ I’m looking to collaborate on high-tech community
+- 📫 How to reach me, email: stsggrn25@gmail.com, tg: @stasgga
 
 <!---
 stasgga/stasgga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
